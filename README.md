@@ -24,6 +24,9 @@ sql dump file:
 
 **Project Title: Java-Based Web Application Deployment on AWS with Flexible Infrastructure**
 
+![Layout](https://github.com/Gohan89/Java-Based-Web-Application-Deployment-on-AWS-IAAC-/blob/main/Layout.png)
+
+
 **Description:**
 This repository contains the code and configuration files for deploying a three-tier Java-based web application on Amazon Web Services (AWS) infrastructure. The project utilizes various AWS services such as EC2, ELB, Auto Scaling, S3, Route 53, and IAM to ensure flexibility, scalability, and reliability of the deployed application. The infrastructure is designed to operate on a pay-as-you-go model, optimizing costs while meeting performance demands.
 
