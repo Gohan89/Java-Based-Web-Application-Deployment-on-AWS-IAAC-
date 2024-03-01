@@ -1,0 +1,5 @@
+# Created at 2024-02-29T17:47:12.398
+Boot Manifest-JAR contains absolute paths in classpath 'D:\vagrant-vms\Projects\vprofile-project-aws-LiftAndShift\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
